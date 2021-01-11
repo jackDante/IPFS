@@ -6,7 +6,7 @@
 _______________________________________________________________________________________
 
 ## Prerequisites
-npm and NodeJS
+npm and NodeJS...run ```npm i``` in order to install the required node modules.
 
 ### MODULES:
 * npm install libp2p@^0.26.2 libp2p-tcp@^0.13.2 @nodeutils/defaults-deep@^1.1.0 --save

@@ -14,5 +14,8 @@ npm and NodeJS...run ```npm i``` in order to install the required node modules.
 * npm install --save libp2p-mplex@^0.8.5 libp2p-secio@^0.11.1
 * npm i pull-stream@^3.6.9 pull-pushable --save
 
+## Chat
+![alt text](ipfs_LAB.png)
+
 ## NOTE
 This project is powered by https://simpleaswater.com/chat-using-libp2p/?ref=awesomeipfs.
